@@ -3,12 +3,12 @@
 import blog from "blog";
 
 blog({
-  title: "Margarida Fernandes",
+  title: "Cumulonimbus",
   author: "Margarida Fernandes",
   avatar: "./assets/LunaLang2.jpg",
   avatarClass: "full",
   links: [
-    { title: "Email", url: "margaridafernandes012@gmail.com" },
+    { title: "Email", url: "mailto:margaridafernandes012@gmail.com" },
     { title: "Instagram", url: "https://www.instagram.com/sf.margarida" },
   ],
   // background: "#fff",
