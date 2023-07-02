@@ -5,7 +5,7 @@ import blog from "blog";
 blog({
   title: "Cumulonimbus",
   author: "Margarida Fernandes",
-  avatar: "./assets/LunaLang2.jpg",
+  avatar: "/assets/LunaLang2.jpg",
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:margaridafernandes012@gmail.com" },
